@@ -7,8 +7,8 @@ This repository contains a set of **product‑management AI skills** packaged as
 
 ### Usage
 
-1. Run /plugin marketplace add antoinethiga/thiga-marketplace in your terminal
-2. Run /plugin install thiga-marketplace@toolkit-pm-ia
+1. Run `/plugin marketplace add antoinethiga/thiga-marketplace` in your terminal
+2. Run `/plugin install thiga-marketplace@toolkit-pm-ia`
 
 ### Development
 
