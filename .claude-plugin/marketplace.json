@@ -16,14 +16,6 @@
         "author": {
           "name": "Antoine Fornas"
         }
-      },
-      {
-        "name": "your-second-plugin",
-        "source": {
-          "source": "github",
-          "repo": "your-github-username/another-plugin-repo"
-        },
-        "description": "Another awesome tool for my workflow."
       }
     ]
   }
