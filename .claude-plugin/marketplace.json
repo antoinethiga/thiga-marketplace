@@ -1,26 +1,29 @@
 {
-    "name": "company-tools",
+    "name": "thiga-marketplace",
     "owner": {
-      "name": "DevTools Team",
-      "email": "devtools@example.com"
+      "name": "Thiga",
+      "email": "antoine.fornas@thiga.co"
     },
     "plugins": [
       {
-        "name": "code-formatter",
-        "source": "./plugins/formatter",
-        "description": "Automatic code formatting on save",
-        "version": "2.1.0",
+        "name": "toolkit-pm-ia",
+        "source": {
+          "source": "github",
+          "repo": "antoinethiga/thiga-marketplace"
+        },
+        "description": "A brief description of what this plugin does.",
+        "version": "1.0.0",
         "author": {
-          "name": "DevTools Team"
+          "name": "Antoine Fornas"
         }
       },
       {
-        "name": "deployment-tools",
+        "name": "your-second-plugin",
         "source": {
           "source": "github",
-          "repo": "company/deploy-plugin"
+          "repo": "your-github-username/another-plugin-repo"
         },
-        "description": "Deployment automation tools"
+        "description": "Another awesome tool for my workflow."
       }
     ]
   }
