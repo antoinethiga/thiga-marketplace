@@ -11,8 +11,8 @@
           "source": "github",
           "repo": "antoinethiga/thiga-marketplace"
         },
-        "description": "A brief description of what this plugin does.",
-        "version": "1.0.0",
+        "description": "4 assistant IA pour le product management",
+        "version": "2.0.0",
         "author": {
           "name": "Antoine Fornas"
         }
