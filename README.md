@@ -7,9 +7,8 @@ This repository contains a set of **product‑management AI skills** packaged as
 
 ### Usage
 
-1. Install / link this repository as a plugin in Claude / Cursor.
-2. Ensure the `marketplace.json` `source.repo` field points to the GitHub repo for this project.
-3. Reload the plugin in your IDE / assistant to pick up any changes.
+1. Run /plugin marketplace add antoinethiga/thiga-marketplace in your terminal
+2. Run /plugin install thiga-marketplace@toolkit-pm-ia
 
 ### Development
 
